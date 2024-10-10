@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+header {
+    background-color: #000000;
+    font-family: "Kanit";
+    font-size: 15px;
+    height: 5em;
+}
+
+h1 {
+    background-color: #ffffff;
+    font-family: "Rubik Mono One";
+    font-size: 170px;
+    margin-left: 45px;
+}
+
+h2 {
+    margin-top: 50px;
+    font-family: "Kanit";
+    font-size: 41px;
+    margin-left: 30px;
+}
+
+h3 {
+    padding-left: 70px;
+    font-family: "Kanit";
+    font-size: 100px;
+    padding-top: 100px;
+    margin: 40px;
+}
+
+.nav-link {
+    font-size: 35px;
+    color: #ffffff
+}
+
+
+img {
+    margin-top: 50px;
+    margin-left: 75px;
+    display: block;
+}
