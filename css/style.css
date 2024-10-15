@@ -20,7 +20,7 @@ h1 {
 h2 {
     margin-top: 50px;
     font-family: "Kanit";
-    font-size: 41px;
+    font-size: 39px;
     padding-left: 30px;
 }
 
@@ -37,15 +37,55 @@ h4 {
     margin-left: 10px;
 }
 
+h5 {
+    font-family: "Rubik Mono One";
+    font-size: 35px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: underline;
+}
+
+i {
+    font-family: "Kanit";
+    font-size: 20px;
+}
+
+h6 {
+        font-family: "Kanit";
+        font-size: 20px;
+        padding-left: 10px;
+        padding-top: 5px;
+}
+
+p {
+    font-family: "Kanit";
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+
+b {
+        font-family: "Kanit";
+        font-size: 20px;
+}
+
 .nav-link {
     font-size: 35px;
-    color: #ffffff
+    color: #ffffff;
+}
+
+.nav-link:hover {
+    color: white;
 }
 
 .contact-link {
     color: #525559
 }
 
+ul {
+    font-family: "Kanit";
+    font-size: 20px;
+}
 
 img {
     margin-top: 50px;
