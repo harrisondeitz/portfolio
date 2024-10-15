@@ -15,6 +15,7 @@ h1 {
     font-size: 120px;
     padding-left: 10px;
     padding-right: 10px;
+    color: #525559
 }
 
 h2 {
@@ -35,6 +36,7 @@ h4 {
     font-family: "Rubik Mono One";
     font-size: 170px;
     margin-left: 10px;
+    color: #525559;
 }
 
 h5 {
@@ -43,6 +45,7 @@ h5 {
     padding-left: 10px;
     padding-right: 10px;
     text-decoration: underline;
+    color: #525559;
 }
 
 i {
@@ -51,10 +54,10 @@ i {
 }
 
 h6 {
-        font-family: "Kanit";
-        font-size: 20px;
-        padding-left: 10px;
-        padding-top: 5px;
+    font-family: "Kanit";
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 5px;
 }
 
 p {
@@ -65,8 +68,14 @@ p {
 
 
 b {
-        font-family: "Kanit";
-        font-size: 20px;
+    font-family: "Kanit";
+    font-size: 20px;
+}
+
+pre {
+    font-family: "Kanit";
+    font-size: 20px;
+    padding-left: 10px;
 }
 
 .nav-link {
