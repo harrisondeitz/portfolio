@@ -15,7 +15,7 @@ h1 {
     font-size: 120px;
     padding-left: 10px;
     padding-right: 10px;
-    color: #525559
+    color: #525559;
 }
 
 h2 {
@@ -48,6 +48,16 @@ h5 {
     color: #525559;
 }
 
+main h5 {
+    font-family: "Rubik Mono One";
+    font-size: 35px;
+    padding-left: 0px;
+    padding-right: 10px;
+    padding-top: 20px;
+    text-decoration: underline;
+    color: #525559;
+}
+
 i {
     font-family: "Kanit";
     font-size: 20px;
@@ -64,6 +74,12 @@ p {
     font-family: "Kanit";
     font-size: 20px;
     padding-left: 10px;
+}
+
+main a {
+    font-family: "Kanit";
+    font-size: 27px;
+    color: #716A6A;
 }
 
 
@@ -88,7 +104,7 @@ pre {
 }
 
 .contact-link {
-    color: #525559
+    color: #716A6A;
 }
 
 ul {
@@ -100,4 +116,12 @@ img {
     margin-top: 50px;
     padding-left: 30px;
     display: block;
+}
+
+.col-lg-4 img {
+    width: 100%;
+    text-align: center;
+    padding-left: 0px;
+    margin-top: 5px;
+    margin-bottom: 10px;
 }
